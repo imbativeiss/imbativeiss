@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imbativeiss
-- 👀 I make this game because i'm so bored.
+- 👀 I make this website because i'm so bored.
 - 🌱 I’m currently learning html and js.
 
 - 📫 How to reach me:
